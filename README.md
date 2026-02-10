@@ -1,4 +1,4 @@
-# So_long
+# so_long
 so_long is a small 2D game project designed to work with the MiniLibX library. The goal is to create a simple top-down game where a player collects items and reaches an exit while navigating a map and avoiding obstacles.
 
 ## Usage
